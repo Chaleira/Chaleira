@@ -69,6 +69,8 @@
 	<a href="#"><img alt="System Administration" src="https://img.shields.io/badge/System%20Administration%20-%20green?style=flat&logo=algorithm&logoColor=white"></a>
 	&emsp;
 	<a href="#"><img alt="Subnetting" src="https://img.shields.io/badge/Subnetting-%20grey?style=flat&logo=algorithm&logoColor=white"></a>
+	&emsp;
+	<a href="#"><img alt="Networking" src="https://img.shields.io/badge/Networking-purple"></a>
 </p>
 <br/>
 
