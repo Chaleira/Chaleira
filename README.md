@@ -8,9 +8,9 @@
 
 ## 📈 Stats 📈
 <p align="center">
-	<a href="#"><img align="middle" src="https://github-readme-stats.vercel.app/api?username=Chaleira&show_icons=true&count_private=true&theme=great-gatsby" /></a>
+	<a href="#"><img align="middle" src="https://github-readme-stats.vercel.app/api?username=Chaleira&show_icons=true&count_private=true&theme=great-gatsby"(#) /></a>
 	&emsp; 
-	<a href="#"><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaleira&layout=compact&langs_count=8&theme=great-gatsby" /></a>
+	<a href="#"><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaleira&layout=compact&langs_count=8&theme=great-gatsby"(#) /></a>
 </p>
 <br/>
 
