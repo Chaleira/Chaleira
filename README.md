@@ -38,7 +38,7 @@
 	&emsp;
 	<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
 	&emsp;
-	<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
+	<a href="#"><img alt="Java" src="https://img.shields.io/badge/Django-django?logo=Django&logoColor=white&labelColor=green&color=green"></a>
 </p>
 
 ### 🖼️ Frontend Development 🖼️
@@ -63,19 +63,7 @@
 	&emsp;
 	<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
 	&emsp;
-	<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-	&emsp;
-	<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-	&emsp;
-	<a href="#"><img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-black?style=flat&logo=algorithm&logoColor=white"></a>
-	&emsp;
 	<a href="#"><img alt="Graphics Development" src="https://img.shields.io/badge/Graphics%20Development-lightblue?style=flat&logo=algorithm&logoColor=white"></a>
-	&emsp;
-	<a href="#"><img alt="System Administration" src="https://img.shields.io/badge/System%20Administration%20-%20green?style=flat&logo=algorithm&logoColor=white"></a>
-	&emsp;
-	<a href="#"><img alt="Subnetting" src="https://img.shields.io/badge/Subnetting-%20grey?style=flat&logo=algorithm&logoColor=white"></a>
-	&emsp;
-	<a href="#"><img alt="Networking" src="https://img.shields.io/badge/Networking-purple"></a>
 </p>
 <br/>
 
