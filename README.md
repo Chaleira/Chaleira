@@ -16,14 +16,14 @@
 
 ## 💣 Great Projects 💣
 <p align="center">
-	<a href="https://github.com/Chaleira/42_Minishell"><img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Chaleira&repo=42_Minishell&theme=great-gatsby" /></a>
-  	&emsp;
-  	<a href="https://github.com/Chaleira/42_Cub3D"><img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Chaleira&repo=42_Cub3D&theme=great-gatsby" /></a>
-</p>
-<p align="center">
 	<a href="https://github.com/Chaleira/42_Transcendence"><img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Chaleira&repo=42_Transcendence&theme=great-gatsby" /></a>
   	&emsp;
   	<a href="https://github.com/Chaleira/42_IRC"><img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Chaleira&repo=42_IRC&theme=great-gatsby" /></a>
+</p>
+<p align="center">
+	<a href="https://github.com/Chaleira/42_Minishell"><img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Chaleira&repo=42_Minishell&theme=great-gatsby" /></a>
+  	&emsp;
+  	<a href="https://github.com/Chaleira/42_Cub3D"><img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Chaleira&repo=42_Cub3D&theme=great-gatsby" /></a>
 </p>
 <br/>
 
