@@ -29,7 +29,7 @@
 
 ## 🛠️ My Skills 🛠️
 
-### 👨🏼‍💻 Programming languages 👨🏼‍💻
+### 👨🏼‍💻 Programming languages and frameworks 👨🏼‍💻
 <p align="left">
 	&emsp;
 	<a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
@@ -38,13 +38,11 @@
 	&emsp;
 	<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
 	&emsp;
-	<a href="#"><img alt="Java" src="https://img.shields.io/badge/Django-django?logo=Django&logoColor=white&labelColor=green&color=green"></a>
-</p>
-
-### 🖼️ Frontend Development 🖼️
-<p align="left">
+	<a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-django?logo=Django&logoColor=white&labelColor=green&color=green"></a>
 	&emsp;
-	<a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%232222.svg?logo=react&logoColor=%23087ea4"></a>
+	<a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"></a>
+	&emsp;
+	<a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"></a>
 </p>
 
 ### 💾 Cloud Hosting 💾
@@ -63,7 +61,7 @@
 	&emsp;
 	<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
 	&emsp;
-	<a href="#"><img alt="Graphics Development" src="https://img.shields.io/badge/Graphics%20Development-lightblue?style=flat&logo=algorithm&logoColor=white"></a>
+	<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"></a>
 </p>
 <br/>
 
