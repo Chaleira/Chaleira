@@ -3,7 +3,7 @@
 <p align="center">
 	<a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
-<h4 align="center">I am a software engineer student at 42 Lisbon, I love coding, hanging out with my friends, long walks on the beach blah blah blah. I also think i'm somewhat funny 😁</h4>
+<h4 align="center">I am a software engineer graduate from 42 Lisbon, I love coding, hanging out with my friends, long walks on the beach blah blah blah. I also think i'm somewhat funny 😁</h4>
 <br/>
 
 ## 📈 Stats 📈
