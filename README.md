@@ -45,14 +45,6 @@
 	<a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"></a>
 </p>
 
-### 💾 Cloud Hosting 💾
-<p align="left">
-	&emsp;
-	<a href="#"><img alt="Github Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
-	&emsp;
-	<a href="#"><img alt="Ubuntu Server" src="https://img.shields.io/badge/Ubuntu%20Server-black?style=flat&logo=ubuntu&logoColor=white&color=red"></a>
- </p>
-
  ### ⚙️ Software & Tools ⚙️
  
 <p>
